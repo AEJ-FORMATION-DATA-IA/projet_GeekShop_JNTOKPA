@@ -1,0 +1,50 @@
+body{
+    color: #797979;
+}
+.jnt-logo{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 2.5em;
+    background: #22242a;
+    padding: 0.6em 0 0 1em;
+}
+/*.jnt-menu{
+    padding-top: 2em;
+    height: 100vh;
+    background: #2f323a;
+}*/
+.jnt-span{
+    color: #4ECDC4;
+}
+.jnt-ul{
+    list-style: none;
+}
+/*.jnt-li{
+    padding-bottom: 3em;
+}*/
+.jnt-a-menu{
+    font-size: 15px;
+    font-weight: 600;
+    /*color: rgb(219, 210, 210);*/
+}
+.jnt-a-menu:hover{
+    text-decoration: none;
+    color: #4ECDC4;
+}
+.jnt-bg-contenu{
+    padding: 1em;
+
+}
+.jnt-bg-table{
+    background: rgb(255, 255, 255);
+}
+.jnt-h4{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+.jnt-pad-top{
+    padding-top: 2em;
+}
